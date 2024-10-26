@@ -1,5 +1,5 @@
 
-# Projeto de Calculadora
+# Projeto de Git Finder
 
 Projeto desenvolvido em React para a busca de repositórios no GitHub
 
